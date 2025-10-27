@@ -1,0 +1,11 @@
+name: pdi
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy
+  - matplotlib
+  - pillow
+  - scikit-image
+  - ipywidgets
