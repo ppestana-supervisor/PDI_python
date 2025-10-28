@@ -9,3 +9,4 @@ dependencies:
   - pillow
   - scikit-image
   - ipywidgets
+  - tqdm

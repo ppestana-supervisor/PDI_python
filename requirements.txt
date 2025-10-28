@@ -1,0 +1,38 @@
+# --- Núcleo científico e Jupyter ---
+ipykernel
+jupyterlab
+matplotlib
+numpy==1.26.4
+pandas
+scikit-learn
+scipy
+tqdm
+pillow
+seaborn
+requests
+pyyaml
+pandoc
+ipywidgets==8.1.7
+jupyterlab-widgets
+
+# --- PyTorch (Colab já tem, mas força atualização) ---
+torch
+torchvision
+torchaudio
+
+# --- Hugging Face + difusão + modelos ---
+transformers==4.33.3
+diffusers==0.24.0
+huggingface_hub==0.19.4
+accelerate==0.25.0
+safetensors==0.4.3
+timm
+open-clip-torch
+
+# --- Visualização e redução dimensional ---
+umap-learn
+opencv-python-headless==4.9.0.80
+
+# --- pesado ---
+insightface==0.7.3
+onnxruntime==1.17.1
