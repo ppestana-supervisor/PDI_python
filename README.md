@@ -1,4 +1,6 @@
-## 📘 Notebook — Introdução ao Processamento Digital de Imagem
+## Notebooks — Processamento Digital de Imagem
+
+### Tópico 2 - Fundamentos da imagem e do processamento em Python
 
 | Tipo de acesso | Link |
 |----------------|------|
